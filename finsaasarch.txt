@@ -1,0 +1,11 @@
+Frontend (React + Vite)
+   ↓
+Backend API (Node / Firebase Functions)
+   ↓
+AI Layer (Gemini / OpenAI)
+   ↓
+Database (Firestore)
+   ↓
+Vector DB (Pinecone / Weaviate)
+   ↓
+Auth + Billing (Firebase Auth + Stripe)
